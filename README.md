@@ -44,7 +44,7 @@
         <td>Memória temporária no meu host com o TMPFS, que armazena dados em memória volátil.</td>
     </tr>
     <tr>
-        <td></td>
+        <td>docker inspect "ID do container"</td>
         <td></td>
     </tr>
 
